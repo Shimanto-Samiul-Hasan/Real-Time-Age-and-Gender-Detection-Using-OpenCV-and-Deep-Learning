@@ -71,6 +71,7 @@ The application is organized into three main layers:
 
 ## Example Results
 
+![Webcam Test](images/test2.png)
 ![Loaded Image Test](images/test1.png)
 
 ## Future Improvements
