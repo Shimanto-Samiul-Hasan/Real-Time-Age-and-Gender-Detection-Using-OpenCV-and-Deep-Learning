@@ -79,13 +79,25 @@ The application is organized into three main layers:
 - **Expanded Demographics**: Include additional features like emotion detection for broader applicability.
 - **Custom Model Training**: Train custom models on diverse datasets for improved accuracy in age classification.
 
+
 ## References
 
-1. **OpenCV** - [https://opencv.org/](https://opencv.org/)
-2. **Pre-trained Models for Age and Gender Prediction** - Levi, G., & Hassner, T. (2015). Age and Gender Classification Using Convolutional Neural Networks.
-3. **Dlib** - [http://dlib.net/](http://dlib.net/)
-4. **DeepFace** - [https://github.com/serengil/deepface](https://github.com/serengil/deepface)
-5. **Face++ API** - [https://www.faceplusplus.com/](https://www.faceplusplus.com/)
+1. **OpenCV Documentation**:[https://opencv.org/](https://opencv.org/)
+
+2. **Pre-trained Models for Age and Gender Prediction**:
+   - Levi, G., & Hassner, T. (2015). Age and Gender Classification Using Convolutional Neural Networks. In *IEEE Workshop on Analysis and Modeling of Faces and Gestures* (AMFG).
+   - Adience Benchmark for Age and Gender Classification, [https://talhassner.github.io/home/publication/2015_CVPR](https://talhassner.github.io/home/publication/2015_CVPR)
+
+3. **Graphviz for System Architecture Diagram**: [https://graphviz.org/](https://graphviz.org/)
+
+4. **Dlib Documentation**:[http://dlib.net/](http://dlib.net/)
+
+5. **DeepFace Library**:[https://github.com/serengil/deepface](https://github.com/serengil/deepface)
+
+6. **Face++ API Documentation**:[https://www.faceplusplus.com/](https://www.faceplusplus.com/)
+
+7. **Tkinter Documentation**:[https://docs.python.org/3/library/tkinter.html](https://docs.python.org/3/library/tkinter.html)
+
 
 ---
 
@@ -93,6 +105,3 @@ The application is organized into three main layers:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
----
-
-This **README** provides a complete guide to understanding, setting up, and using the project, as well as contributing to its future improvements. It also highlights the project’s unique features and includes example results for clarity.
