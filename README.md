@@ -71,7 +71,7 @@ The application is organized into three main layers:
 
 ## Example Results
 
-![Example Screenshot](images/test1.png)
+![Loaded Image Test](images/test1.png)
 
 ## Future Improvements
 
